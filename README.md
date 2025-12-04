@@ -2,7 +2,7 @@
 
 ## What is this project for? ##
 
-* learning langchain4j
+* learning Spring AI Alibaba
 * Stream
 
 ## How do I get set up? ##
